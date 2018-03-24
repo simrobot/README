@@ -39,6 +39,6 @@ SIMROBOT实验室是由付伟老师指导的关于计算机软件项目开发的
 |  张仲  |   https://github.com/kingMid  |
 |    赵传榕  |   https://github.com/zhaochuanrong  |
 |   杨鑫乐   |  https://github.com/youngxinler   |
-|   贾本仁   |     |
+|   贾本仁   |  https://github.com/jbr1963055837   |
 
 ## 3 优秀项目
