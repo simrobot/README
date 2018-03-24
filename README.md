@@ -7,7 +7,7 @@
 | 成员 |  GitHub地址   |
 | ---- | --- |
 |   刘家   |   https://github.com/kylesliu  |
-|      |     |
+|   王伟   |     |
 |      |     |
 |      |     |
 
