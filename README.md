@@ -24,13 +24,14 @@ SIMROBOT实验室是由付伟老师指导的关于计算机软件项目开发的
 |   李东倍   |  https://github.com/iwts   |
 |   于圣宣   | https://github.com/sihgyu   |
 |   杨旭涛   |  https://github.com/PerpendicularAndHorizontal   |
-|   张丽荣   |  https://github.com/zlr-zhanglirong |
+|   张丽荣   |  https://github.com/a-h-a-z |
 |   王世丹   |  https://github.com/wangshidan   |
-|   冯倩妮   |     |
+|   冯倩妮   |  https://github.com/fqnfqn   |
 |    孙宝航  |   https://github.com/Iceeyesocold  |
 |    叶力行  |   https://github.com/Yelixing  |
 |  薛瑶   |  https://github.com/xueyaosmile   |
 |   高克坤   |    https://github.com/gaokekun123 |
+|吴太龙|https://github.com/Aumin|
 * 2017级
 
 | 成员 |  GitHub地址   |
