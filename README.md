@@ -8,7 +8,7 @@ SIMROBOT实验室是由付伟老师指导的关于计算机软件项目开发的
 | 成员 |  GitHub地址   |
 | ---- | --- |
 |   刘家   |   https://github.com/kylesliu  |
-|   王伟   |   https://github.com/WvDevin  |
+| 王伟   |   https://github.com/WvDevin  |
 |   王飒   |    https://github.com/zingks |
 |   江茜   |  https://github.com/willingup   |
 |   罗婧   |     |
@@ -19,7 +19,7 @@ SIMROBOT实验室是由付伟老师指导的关于计算机软件项目开发的
 
 | 成员 |  GitHub地址   |
 | ---- | --- |
-|   郑俊容  |  https://github.com/wadang1114 |
+| 郑俊容  |  https://github.com/wadang1114 |
 |张浩迪   |    https://github.com/daddyyank |
 |   李东倍   |  https://github.com/iwts   |
 |   于圣宣   | https://github.com/sihgyu   |
